@@ -22,7 +22,7 @@ const navbar = () => {
          </ul>
 
          <div onClick={handleNav} className='block md:hidden'>
-            {!nav ? <BiX size={35}/> : <BiMenu size={35} />}
+            {!nav ? <BiX size={35}/> : <BiMenu size={35}/>}
          </div>
 
          
