@@ -10,8 +10,8 @@ const navbar = () => {
    }
 
    return (
-      <div className='flex  justify-between items-center h-20 px-4 max-w-[790px] mx-auto text-white'>
-         <h1 className='w-full text-3xl font-bold text-[#00df9a]'>Finance</h1>
+      <div className='flex justify-between items-center h-20 px-4 max-w-[790px] mx-auto text-white'>
+         <h1 className='w-full text-3xl font-bold text-[#00df9a] mx-0'>EQfinance</h1>
 
          <ul className='hidden md:flex'>
             <li className='p-4'> Home</li>
